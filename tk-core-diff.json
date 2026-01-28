@@ -1,0 +1,55 @@
+{
+  "repo_path": "..\\tk-core",
+  "software_credits_exists": true,
+  "missing_in_docs": [
+    {
+      "type": "dependency",
+      "name": "ordereddict",
+      "version": "==1.1",
+      "source": "requirements.txt:11"
+    },
+    {
+      "type": "dependency",
+      "name": "ruamel_yaml",
+      "version": "==0.18.14",
+      "source": "requirements.txt:13"
+    },
+    {
+      "type": "dependency",
+      "name": "coverage",
+      "version": "==7.2.7",
+      "source": "requirements.txt:17"
+    },
+    {
+      "type": "dependency",
+      "name": "setuptools",
+      "version": "==65.5.1",
+      "source": "requirements.txt:21"
+    }
+  ],
+  "missing_in_repo": [],
+  "version_mismatches": [],
+  "correct": [
+    {
+      "type": "dependency",
+      "name": "distro",
+      "version": "==1.4.0"
+    },
+    {
+      "type": "dependency",
+      "name": "pyyaml",
+      "version": "==5.4.1"
+    },
+    {
+      "type": "dependency",
+      "name": "six",
+      "version": "==1.13.0"
+    }
+  ],
+  "summary": {
+    "correct": 3,
+    "missing_in_docs": 4,
+    "missing_in_repo": 0,
+    "version_mismatches": 0
+  }
+}

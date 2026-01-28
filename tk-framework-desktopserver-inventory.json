@@ -1,0 +1,27 @@
+{
+  "repo_path": "C:\\Users\\chaucae\\OneDrive-Autodesk\\Documents\\projects\\tk-framework-desktopserver",
+  "scanned_at": "2026-01-27T20:55:52.188618Z",
+  "dependencies": [
+    {
+      "source": "requirements.txt:1",
+      "name": "https",
+      "version_spec": "://github.com/shotgunsoftware/tk-toolchain/archive/master.zip",
+      "raw_line": "https://github.com/shotgunsoftware/tk-toolchain/archive/master.zip"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "websocket-client",
+      "version_spec": "==1.6.1",
+      "raw_line": "websocket-client==1.6.1"
+    }
+  ],
+  "vendored_candidates": [],
+  "asset_candidates": [],
+  "frozen_requirements_files": [],
+  "software_credits": {
+    "exists": true,
+    "path": "software_credits",
+    "is_empty": false,
+    "line_count": 788
+  }
+}

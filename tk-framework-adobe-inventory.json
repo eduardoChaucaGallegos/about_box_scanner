@@ -1,0 +1,401 @@
+{
+  "repo_path": "C:\\Users\\chaucae\\OneDrive-Autodesk\\Documents\\projects\\tk-framework-adobe",
+  "scanned_at": "2026-01-27T21:06:35.680177Z",
+  "dependencies": [
+    {
+      "source": "requirements.txt:1",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "charset-normalizer",
+      "version_spec": "==3.4.1",
+      "raw_line": "charset-normalizer==3.4.1"
+    },
+    {
+      "source": "requirements.txt:3",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:4",
+      "name": "requests",
+      "version_spec": "==2.31.0",
+      "raw_line": "requests==2.31.0"
+    },
+    {
+      "source": "requirements.txt:5",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:6",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:7",
+      "name": "urllib3",
+      "version_spec": "==2.0.7",
+      "raw_line": "urllib3==2.0.7"
+    },
+    {
+      "source": "requirements.txt:8",
+      "name": "websocket-client",
+      "version_spec": "==1.6.1",
+      "raw_line": "websocket-client==1.6.1"
+    },
+    {
+      "source": "requirements.txt:1",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "charset-normalizer",
+      "version_spec": "==3.4.4",
+      "raw_line": "charset-normalizer==3.4.4"
+    },
+    {
+      "source": "requirements.txt:3",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:4",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:5",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:6",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:7",
+      "name": "urllib3",
+      "version_spec": "==2.5.0",
+      "raw_line": "urllib3==2.5.0"
+    },
+    {
+      "source": "requirements.txt:8",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:15",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:16",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "requests",
+      "version_spec": "==2.31.0",
+      "raw_line": "requests==2.31.0"
+    },
+    {
+      "source": "requirements.txt:15",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:16",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "websocket-client",
+      "version_spec": "===1.6.1",
+      "raw_line": "websocket-client===1.6.1"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:15",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:16",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:15",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:16",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    },
+    {
+      "source": "requirements.txt:1",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "charset-normalizer",
+      "version_spec": "==3.4.4",
+      "raw_line": "charset-normalizer==3.4.4"
+    },
+    {
+      "source": "requirements.txt:3",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:4",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:5",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:6",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:7",
+      "name": "urllib3",
+      "version_spec": "==2.5.0",
+      "raw_line": "urllib3==2.5.0"
+    },
+    {
+      "source": "requirements.txt:8",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    },
+    {
+      "source": "requirements.txt:1",
+      "name": "certifi",
+      "version_spec": "==2024.12.14",
+      "raw_line": "certifi==2024.12.14"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "charset-normalizer",
+      "version_spec": "==3.4.4",
+      "raw_line": "charset-normalizer==3.4.4"
+    },
+    {
+      "source": "requirements.txt:3",
+      "name": "idna",
+      "version_spec": "==3.7",
+      "raw_line": "idna==3.7"
+    },
+    {
+      "source": "requirements.txt:4",
+      "name": "requests",
+      "version_spec": "==2.32.5",
+      "raw_line": "requests==2.32.5"
+    },
+    {
+      "source": "requirements.txt:5",
+      "name": "six",
+      "version_spec": "==1.10.0",
+      "raw_line": "six==1.10.0"
+    },
+    {
+      "source": "requirements.txt:6",
+      "name": "socketIO-client-nexus",
+      "version_spec": "==0.7.6",
+      "raw_line": "socketIO-client-nexus==0.7.6"
+    },
+    {
+      "source": "requirements.txt:7",
+      "name": "urllib3",
+      "version_spec": "==2.5.0",
+      "raw_line": "urllib3==2.5.0"
+    },
+    {
+      "source": "requirements.txt:8",
+      "name": "websocket-client",
+      "version_spec": "==1.8.0",
+      "raw_line": "websocket-client==1.8.0"
+    }
+  ],
+  "vendored_candidates": [
+    {
+      "path": "cep/js/adobe",
+      "reason": "toolkit_vendor_pattern",
+      "license_files": [],
+      "is_toolkit_pattern": true
+    },
+    {
+      "path": "python/tk_framework_adobe",
+      "reason": "toolkit_vendor_pattern",
+      "license_files": [],
+      "is_toolkit_pattern": true
+    },
+    {
+      "path": "python/tk_framework_adobe_utils",
+      "reason": "toolkit_vendor_pattern",
+      "license_files": [],
+      "is_toolkit_pattern": true
+    }
+  ],
+  "asset_candidates": [
+    {
+      "path": "cep/fonts/OpenSans/OpenSans-Bold.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "cep/fonts/OpenSans/OpenSans-Italic.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "cep/fonts/OpenSans/OpenSans-Regular.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "cep/fonts/OpenSans/OpenSans-Semibold.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "cep/js/adobe/CSInterface.js",
+      "type": "js",
+      "reason": "known_library_name"
+    }
+  ],
+  "frozen_requirements_files": [
+    "requirements/3.7/frozen_requirements.txt",
+    "requirements/3.11/frozen_requirements.txt",
+    "requirements/3.10/frozen_requirements.txt",
+    "requirements/3.9/frozen_requirements.txt"
+  ],
+  "software_credits": {
+    "exists": true,
+    "path": "software_credits",
+    "is_empty": false,
+    "line_count": 1431
+  }
+}

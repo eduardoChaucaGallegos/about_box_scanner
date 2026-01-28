@@ -1,0 +1,186 @@
+{
+  "repo_path": "C:\\Users\\chaucae\\OneDrive-Autodesk\\Documents\\projects\\tk-core",
+  "scanned_at": "2026-01-27T22:59:56.158979Z",
+  "dependencies": [
+    {
+      "source": "requirements.txt:10",
+      "name": "distro",
+      "version_spec": "==1.4.0",
+      "raw_line": "distro==1.4.0",
+      "pypi_info": {
+        "name": "distro",
+        "version": "1.4.0",
+        "license": "Apache License, Version 2.0",
+        "home_page": "https://github.com/nir0s/distro",
+        "project_url": "https://pypi.org/project/distro/",
+        "author": "Nir Cohen",
+        "summary": "Distro - an OS platform information API"
+      }
+    },
+    {
+      "source": "requirements.txt:11",
+      "name": "ordereddict",
+      "version_spec": "==1.1",
+      "raw_line": "ordereddict==1.1",
+      "pypi_info": {
+        "name": "ordereddict",
+        "version": "1.1",
+        "license": "UNKNOWN",
+        "home_page": "UNKNOWN",
+        "project_url": "https://pypi.org/project/ordereddict/",
+        "author": "Raymond Hettinger",
+        "summary": "A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6."
+      }
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "pyyaml",
+      "version_spec": "==5.4.1",
+      "raw_line": "pyyaml==5.4.1",
+      "pypi_info": {
+        "name": "PyYAML",
+        "version": "5.4.1",
+        "license": "MIT",
+        "home_page": "https://pyyaml.org/",
+        "project_url": "https://pypi.org/project/PyYAML/",
+        "author": "Kirill Simonov",
+        "summary": "YAML parser and emitter for Python"
+      }
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "ruamel_yaml",
+      "version_spec": "==0.18.14",
+      "raw_line": "ruamel_yaml==0.18.14",
+      "pypi_info": {
+        "name": "ruamel.yaml",
+        "version": "0.18.14",
+        "license": "MIT license",
+        "home_page": null,
+        "project_url": "https://pypi.org/project/ruamel.yaml/",
+        "author": "Anthon van der Neut",
+        "summary": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order"
+      }
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "six",
+      "version_spec": "==1.13.0",
+      "raw_line": "six==1.13.0",
+      "pypi_info": {
+        "name": "six",
+        "version": "1.13.0",
+        "license": "MIT",
+        "home_page": "https://github.com/benjaminp/six",
+        "project_url": "https://pypi.org/project/six/",
+        "author": "Benjamin Peterson",
+        "summary": "Python 2 and 3 compatibility utilities"
+      }
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "coverage",
+      "version_spec": "==7.2.7",
+      "raw_line": "coverage==7.2.7",
+      "pypi_info": {
+        "name": "coverage",
+        "version": "7.2.7",
+        "license": "Apache-2.0",
+        "home_page": "https://github.com/nedbat/coveragepy",
+        "project_url": "https://pypi.org/project/coverage/",
+        "author": "Ned Batchelder and 213 others",
+        "summary": "Code coverage measurement for Python"
+      }
+    },
+    {
+      "source": "requirements.txt:21",
+      "name": "setuptools",
+      "version_spec": "==65.5.1",
+      "raw_line": "setuptools==65.5.1"
+    }
+  ],
+  "vendored_candidates": [
+    {
+      "path": "python/tank_vendor/shotgun_api3/lib",
+      "reason": "toolkit_vendor_pattern",
+      "license_files": [],
+      "is_toolkit_pattern": true
+    },
+    {
+      "path": "python/tank_vendor/ruamel/yaml",
+      "reason": "license_file_found",
+      "license_files": [
+        "python/tank_vendor/ruamel/yaml/LICENSE"
+      ],
+      "is_toolkit_pattern": false,
+      "license_info": {
+        "license_type": "MIT",
+        "license_file_path": "python/tank_vendor/ruamel/yaml/LICENSE",
+        "license_text": " The MIT License (MIT)\n\n Copyright (c) 2014-2025 Anthon van der Neut, Ruamel bvba\n\n Permission is hereby granted, free of charge, to any person obtaining a copy\n of this software and associated documentation files (the \"Software\"), to deal\n in the Software without restriction, including without limitation the rights\n to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n copies of the Software, and to permit persons to whom the Software is\n furnished to do so, subject to the following conditions:\n\n The above copyright notice and this permission notice shall be included in\n all copies or substantial portions of the Software.\n\n THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n SOFTWARE.\n",
+        "copyright_statements": [
+          "Copyright (c) 2014-2025 Anthon van der Neut, Ruamel bvba",
+          "Copyright (c) 2014-2025",
+          "copyright notice and this permission notice shall be included in",
+          "COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+        ],
+        "spdx_id": null
+      }
+    },
+    {
+      "path": "python/tank_vendor/yaml",
+      "reason": "license_file_found",
+      "license_files": [
+        "python/tank_vendor/yaml/LICENSE"
+      ],
+      "is_toolkit_pattern": false,
+      "license_info": {
+        "license_type": "MIT",
+        "license_file_path": "python/tank_vendor/yaml/LICENSE",
+        "license_text": "Copyright (c) 2017-2021 Ingy d\u00f6t Net\nCopyright (c) 2006-2016 Kirill Simonov\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+        "copyright_statements": [
+          "Copyright (c) 2017-2021 Ingy d\u00f6t Net",
+          "Copyright (c) 2006-2016 Kirill Simonov",
+          "Copyright (c) 2017-2021",
+          "Copyright (c) 2006-2016",
+          "copyright notice and this permission notice shall be included in all",
+          "COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER"
+        ],
+        "spdx_id": null
+      }
+    }
+  ],
+  "asset_candidates": [
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Bold.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-CondLight.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Italic.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Light.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Regular.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    }
+  ],
+  "frozen_requirements_files": [],
+  "software_credits": {
+    "exists": true,
+    "path": "software_credits",
+    "is_empty": false,
+    "line_count": 478
+  }
+}

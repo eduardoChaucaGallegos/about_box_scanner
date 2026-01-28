@@ -1,0 +1,12 @@
+# Requirements for the About Box Scanner tool
+# Python 3.8+
+
+# For parsing pyproject.toml files
+tomli>=2.0.0; python_version < '3.11'
+
+# For better structured logging (optional, using built-in logging for now)
+# coloredlogs>=15.0
+
+# For development/testing (uncomment as needed)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0

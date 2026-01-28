@@ -1,0 +1,47 @@
+{
+  "repo_path": "C:\\Users\\chaucae\\OneDrive-Autodesk\\Documents\\projects\\tk-framework-desktopclient",
+  "scanned_at": "2026-01-27T21:09:59.078494Z",
+  "dependencies": [
+    {
+      "source": "requirements.txt:11",
+      "name": "<editable-or-git-dependency>",
+      "version_spec": "unknown",
+      "raw_line": "git+https://github.com/shotgunsoftware/python-fernet.git@v1.0.1.1"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "websocket-client",
+      "version_spec": "== 1.6.1",
+      "raw_line": "websocket-client == 1.6.1"
+    },
+    {
+      "source": "requirements.txt:1",
+      "name": "fernet",
+      "version_spec": "==1.0.1",
+      "raw_line": "fernet==1.0.1"
+    },
+    {
+      "source": "requirements.txt:2",
+      "name": "pyaes",
+      "version_spec": "==1.6.1",
+      "raw_line": "pyaes==1.6.1"
+    },
+    {
+      "source": "requirements.txt:3",
+      "name": "websocket-client",
+      "version_spec": "==1.6.1",
+      "raw_line": "websocket-client==1.6.1"
+    }
+  ],
+  "vendored_candidates": [],
+  "asset_candidates": [],
+  "frozen_requirements_files": [
+    "Vendors/frozen_requirements.txt"
+  ],
+  "software_credits": {
+    "exists": true,
+    "path": "software_credits",
+    "is_empty": false,
+    "line_count": 44
+  }
+}

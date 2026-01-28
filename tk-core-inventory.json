@@ -1,0 +1,106 @@
+{
+  "repo_path": "C:\\Users\\chaucae\\OneDrive-Autodesk\\Documents\\projects\\tk-core",
+  "scanned_at": "2026-01-27T20:51:38.951405Z",
+  "dependencies": [
+    {
+      "source": "requirements.txt:10",
+      "name": "distro",
+      "version_spec": "==1.4.0",
+      "raw_line": "distro==1.4.0"
+    },
+    {
+      "source": "requirements.txt:11",
+      "name": "ordereddict",
+      "version_spec": "==1.1",
+      "raw_line": "ordereddict==1.1"
+    },
+    {
+      "source": "requirements.txt:12",
+      "name": "pyyaml",
+      "version_spec": "==5.4.1",
+      "raw_line": "pyyaml==5.4.1"
+    },
+    {
+      "source": "requirements.txt:13",
+      "name": "ruamel_yaml",
+      "version_spec": "==0.18.14",
+      "raw_line": "ruamel_yaml==0.18.14"
+    },
+    {
+      "source": "requirements.txt:14",
+      "name": "six",
+      "version_spec": "==1.13.0",
+      "raw_line": "six==1.13.0"
+    },
+    {
+      "source": "requirements.txt:17",
+      "name": "coverage",
+      "version_spec": "==7.2.7",
+      "raw_line": "coverage==7.2.7"
+    },
+    {
+      "source": "requirements.txt:21",
+      "name": "setuptools",
+      "version_spec": "==65.5.1",
+      "raw_line": "setuptools==65.5.1"
+    }
+  ],
+  "vendored_candidates": [
+    {
+      "path": "python/tank_vendor/shotgun_api3/lib",
+      "reason": "toolkit_vendor_pattern",
+      "license_files": [],
+      "is_toolkit_pattern": true
+    },
+    {
+      "path": "python/tank_vendor/ruamel/yaml",
+      "reason": "license_file_found",
+      "license_files": [
+        "python/tank_vendor/ruamel/yaml/LICENSE"
+      ],
+      "is_toolkit_pattern": false
+    },
+    {
+      "path": "python/tank_vendor/yaml",
+      "reason": "license_file_found",
+      "license_files": [
+        "python/tank_vendor/yaml/LICENSE"
+      ],
+      "is_toolkit_pattern": false
+    }
+  ],
+  "asset_candidates": [
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Bold.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-CondLight.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Italic.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Light.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    },
+    {
+      "path": "python/tank/platform/qt/fonts/OpenSans/OpenSans-Regular.ttf",
+      "type": "font",
+      "reason": "in_font_directory"
+    }
+  ],
+  "frozen_requirements_files": [],
+  "software_credits": {
+    "exists": true,
+    "path": "software_credits",
+    "is_empty": false,
+    "line_count": 478
+  }
+}
